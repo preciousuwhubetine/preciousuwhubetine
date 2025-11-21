@@ -1,7 +1,15 @@
-Low-level projects: https://github.com/low-level-precious-uwhubetine
+AI projects: https://github.com/precious-uwhubetine-ai
 
-Android projects: https://github.com/android-precious-uwhubetine
+Android projects: https://github.com/precious-uwhubetine-android
 
-Freecodecamp projects: https://github.com/freecodecamp-precious-uwhubetine
+Arduino projects: https://github.com/precious-uwhubetine-arduino
 
-Microverse projects: https://github.com/microverse-precious-uwhubetine
+Freecodecamp projects: https://github.com/precious-uwhubetine-freecodecamp
+
+Low-level projects: https://github.com/precious-uwhubetine-low-level
+
+Microverse projects: https://github.com/precious-uwhubetine-microverse
+
+Web projects: https://github.com/precious-uwhubetine-web
+
+Windows projects: https://github.com/precious-uwhubetine-windows
